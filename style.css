@@ -1,0 +1,18 @@
+.section{
+    text-align: center;
+    padding: 20px;
+}
+
+.section-dark{
+    background-color:aqua;
+    color:black;
+}
+
+.pimg3{
+    background-image: url("img1.png");
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
